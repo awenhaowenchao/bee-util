@@ -1,0 +1,4 @@
+gevent==1.4.0
+greenlet==1.0.0
+PyYAML==5.4.1
+typing-extensions==3.7.4.3

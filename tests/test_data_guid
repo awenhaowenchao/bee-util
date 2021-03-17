@@ -1,0 +1,5 @@
+# from bee.data.guid.guid import Guid
+from bee_util.data.guid import Guid
+
+_guid = Guid()
+print(_guid.string())
