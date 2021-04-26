@@ -1,6 +1,6 @@
 from threading import Thread
 
-def async(func):
+def async_func(func):
 
     def wrapper(*args, **kwargs):
         thread = Thread(target=func, args=args, kwargs=kwargs)
