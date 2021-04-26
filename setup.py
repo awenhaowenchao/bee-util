@@ -18,7 +18,7 @@ URL = 'https://github.com/py-bee/bee-util'
 EMAIL = 'awenhaowenchao@hotmail.com'
 AUTHOR = 'wenchao.hao'
 REQUIRES_PYTHON = '>=3.6.0'
-VERSION = '0.1.0'
+VERSION = '0.1.2'
 
 # What packages are requirpiped for this module to be executed?
 REQUIRED = [
